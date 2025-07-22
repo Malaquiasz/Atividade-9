@@ -1,0 +1,53 @@
+/* estilo.css */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+h2 {
+    color: #555;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #fff;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+code {
+    background-color: #eaeaea;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+h3 {
+    color: #777;
+    margin-top: 20px;
+}
